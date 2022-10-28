@@ -1,0 +1,42 @@
+@media only screen and (max-width: 992px) {
+.hero{ width: 750px;
+
+}
+.osnova{
+
+}
+.content2{
+
+}
+.blocks{
+
+}
+.content3{
+
+}
+.content4{height: 45px;
+
+}
+}
+
+
+@media only screen and (max-width: 768px) {
+    .hero{width:450px ;
+    
+    }
+    .osnova{
+    
+    }
+    .content2{
+    
+    }
+    .blocks{
+    
+    }
+    .content3{
+    
+    }
+    .content4{
+        
+    }
+    }
